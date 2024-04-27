@@ -16,9 +16,6 @@
     - View profile page and view your storybooks in the profile page.
     - Add a review about the book.   
     
-## Live link
-Deployed Link can be accessed here [StoryBook](https://storybook-flaskreact.onrender.com/)
-#### Kindly be patient while using render. It can take a while to load
 
 ## Known Bugs
     - Application works perfectly well, no bugs.
